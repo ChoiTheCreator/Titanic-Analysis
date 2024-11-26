@@ -14,3 +14,13 @@
 <img width="602" alt="스크린샷 2024-11-26 오후 2 28 33" src="https://github.com/user-attachments/assets/e713b22b-6f74-48ff-b5d5-e9b83e3bb7ec">
 <img width="604" alt="스크린샷 2024-11-26 오후 2 28 39" src="https://github.com/user-attachments/assets/5f5fd349-98e5-4b53-93f0-239744b78f19">
 <img width="627" alt="스크린샷 2024-11-26 오후 2 28 47" src="https://github.com/user-attachments/assets/1adecd26-049e-4d3c-82e8-5674e023e964">
+<img width="582" alt="스크린샷 2024-11-26 오후 2 31 19" src="https://github.com/user-attachments/assets/a67ed37d-abad-4b7e-8da2-15b1dc8fb19b">
+<img width="496" alt="스크린샷 2024-11-26 오후 2 31 24" src="https://github.com/user-attachments/assets/6547a00e-1766-47d8-ac3f-74748944f251">
+<img width="591" alt="스크린샷 2024-11-26 오후 2 31 31" src="https://github.com/user-attachments/assets/6bf5a6ff-e7be-42f2-b37e-1ad05cdfc1a1">
+<img width="499" alt="스크린샷 2024-11-26 오후 2 31 37" src="https://github.com/user-attachments/assets/bf3778b0-43f8-4ef0-af7f-5c3102112204">
+<img width="554" alt="스크린샷 2024-11-26 오후 2 31 42" src="https://github.com/user-attachments/assets/471f622f-e655-41d5-a
+<img width="518" alt="스크린샷 2024-11-26 오후 2 31 48" src="https://github.com/user-attachments/assets/11ddd229-3768-4412-9818-29dcb3d8f2d4">
+7d1-93f48355c6cc">
+<img width="574" alt="스크린샷 2024-11-26 오후 2 31 54" src="https://github.com/user-attachments/assets/e354199f-7c7b-4f6e-8ab4-bdb414bd4778">
+<img width="539" alt="스크린샷 2024-11-26 오후 2 31 58" src="https://github.com/user-attachments/assets/8b5f3f73-1d07-467f-8602-d66ee9956d78">
+
