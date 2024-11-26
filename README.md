@@ -1,4 +1,4 @@
-타이타닉 사망자와 생존자간 인과관계를 다양한 요인 중심으로 분석했다,
+
 <img width="603" alt="스크린샷 2024-11-26 오후 2 26 58" src="https://github.com/user-attachments/assets/4f095c88-c264-4a52-93f4-cf1a4322954e">
 <img width="607" alt="스크린샷 2024-11-26 오후 2 27 04" src="https://github.com/user-attachments/assets/78479188-afac-460e-be79-be2373836655">
 <img width="592" alt="스크린샷 2024-11-26 오후 2 27 11" src="https://github.com/user-attachments/assets/f643f688-1980-4bb1-9a3b-91e2ac768dcf">
@@ -19,8 +19,8 @@
 <img width="591" alt="스크린샷 2024-11-26 오후 2 31 31" src="https://github.com/user-attachments/assets/6bf5a6ff-e7be-42f2-b37e-1ad05cdfc1a1">
 <img width="499" alt="스크린샷 2024-11-26 오후 2 31 37" src="https://github.com/user-attachments/assets/bf3778b0-43f8-4ef0-af7f-5c3102112204">
 <img width="554" alt="스크린샷 2024-11-26 오후 2 31 42" src="https://github.com/user-attachments/assets/471f622f-e655-41d5-a>
-<img width="518" alt="스크린샷 2024-11-26 오후 2 31 48" src="https://github.com/user-attachments/assets/11ddd229-3768-4412-9818-29dcb3d8f2d4">
-7d1-93f48355c6cc">
+<img width="539" alt="스크린샷 2024-11-26 오후 2 33 12" src="https://github.com/user-attachments/assets/68e7907b-a954-4497-8fbf-4b6f47e37eb0">
+
 <img width="574" alt="스크린샷 2024-11-26 오후 2 31 54" src="https://github.com/user-attachments/assets/e354199f-7c7b-4f6e-8ab4-bdb414bd4778">
 <img width="539" alt="스크린샷 2024-11-26 오후 2 31 58" src="https://github.com/user-attachments/assets/8b5f3f73-1d07-467f-8602-d66ee9956d78">
 
