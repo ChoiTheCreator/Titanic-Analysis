@@ -22,7 +22,7 @@
 <img width="548" alt="스크린샷 2024-11-26 오후 2 34 40" src="https://github.com/user-attachments/assets/de603fee-b0c3-4487-944e-39abe3b8ddcc">
 <img width="470" alt="스크린샷 2024-11-26 오후 2 34 47" src="https://github.com/user-attachments/assets/fb3a0918-862e-4508-93c1-9376cbd8ae2d">
 
-<img width="539" alt="스크린샷 2024-11-26 오후 2 33 12" src="https://github.com/user-attachments/assets/68e7907b-a954-4497-8fbf-4b6f47e37eb0">
+
 
 <img width="574" alt="스크린샷 2024-11-26 오후 2 31 54" src="https://github.com/user-attachments/assets/e354199f-7c7b-4f6e-8ab4-bdb414bd4778">
 <img width="539" alt="스크린샷 2024-11-26 오후 2 31 58" src="https://github.com/user-attachments/assets/8b5f3f73-1d07-467f-8602-d66ee9956d78">
